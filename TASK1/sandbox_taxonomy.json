@@ -1,0 +1,210 @@
+[
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Data and Artificial Intelligence",
+    "Job Title": "Data Engineer",
+    "Core Skill": "Data Pipeline Engineering",
+    "Sub Skill": "Batch Data Pipeline Development",
+    "Synonym": "PySpark Pipelines"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Data and Artificial Intelligence",
+    "Job Title": "Data Engineer",
+    "Core Skill": "Data Pipeline Engineering",
+    "Sub Skill": "Extract Transform Load Automation",
+    "Synonym": "dbt Transformations"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Data and Artificial Intelligence",
+    "Job Title": "Data Engineer",
+    "Core Skill": "Data Pipeline Engineering",
+    "Sub Skill": "API Data Ingestion Programming",
+    "Synonym": "Python Requests"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Data and Artificial Intelligence",
+    "Job Title": "Data Engineer",
+    "Core Skill": "Data Pipeline Engineering",
+    "Sub Skill": "Data Pipeline Error Handling",
+    "Synonym": "Dead Letter Queues"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Data and Artificial Intelligence",
+    "Job Title": "Machine Learning Engineer",
+    "Core Skill": "Machine Learning Model Development",
+    "Sub Skill": "Gradient Boosting Algorithm Tuning",
+    "Synonym": "XGBoost"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Data and Artificial Intelligence",
+    "Job Title": "Machine Learning Engineer",
+    "Core Skill": "Deep Learning Architecture Engineering",
+    "Sub Skill": "PyTorch Model Engineering",
+    "Synonym": "PyTorch Module"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Data and Artificial Intelligence",
+    "Job Title": "Machine Learning Engineer",
+    "Core Skill": "Deep Learning Architecture Engineering",
+    "Sub Skill": "Transformer Network Implementation",
+    "Synonym": "Attention Mechanism"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Data and Artificial Intelligence",
+    "Job Title": "Data Scientist",
+    "Core Skill": "Model Evaluation Validation",
+    "Sub Skill": "Model Explainability Analysis",
+    "Synonym": "Feature Attribution"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Software Engineering",
+    "Job Title": "Back End Engineer",
+    "Core Skill": "Server Side Programming",
+    "Sub Skill": "Python Server Development",
+    "Synonym": "Django"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Software Engineering",
+    "Job Title": "Back End Engineer",
+    "Core Skill": "Server Side Programming",
+    "Sub Skill": "Go System Programming",
+    "Synonym": "Goroutines"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Software Engineering",
+    "Job Title": "Back End Engineer",
+    "Core Skill": "Relational Database Management",
+    "Sub Skill": "SQL Query Optimization",
+    "Synonym": "Indexing Strategies"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Software Engineering",
+    "Job Title": "Back End Engineer",
+    "Core Skill": "Relational Database Management",
+    "Sub Skill": "Object Relational Mapping",
+    "Synonym": "SQLAlchemy"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Cloud and Infrastructure",
+    "Job Title": "Cloud Engineer",
+    "Core Skill": "Infrastructure as Code",
+    "Sub Skill": "Terraform Infrastructure Provisioning",
+    "Synonym": "HashiCorp Terraform"
+  },
+  {
+    "Domain": "Information Technology",
+    "Job Category": "Cloud and Infrastructure",
+    "Job Title": "Cloud Engineer",
+    "Core Skill": "Cloud Networking Architecture",
+    "Sub Skill": "Virtual Private Cloud Design",
+    "Synonym": "AWS VPC"
+  },
+  {
+    "Domain": "Marketing",
+    "Job Category": "Growth and Performance Media",
+    "Job Title": "Growth Marketing Manager",
+    "Core Skill": "Paid Search Engine Marketing",
+    "Sub Skill": "Search Query Analysis",
+    "Synonym": "Google Search Console"
+  },
+  {
+    "Domain": "Marketing",
+    "Job Category": "Growth and Performance Media",
+    "Job Title": "Growth Marketing Manager",
+    "Core Skill": "Paid Search Engine Marketing",
+    "Sub Skill": "Keyword Bidding Strategy",
+    "Synonym": "Google Ads Smart Bidding"
+  },
+  {
+    "Domain": "Marketing",
+    "Job Category": "Growth and Performance Media",
+    "Job Title": "Growth Marketing Manager",
+    "Core Skill": "Paid Social Media Advertising",
+    "Sub Skill": "Audience Targeting Architecture",
+    "Synonym": "Meta Custom Audiences"
+  },
+  {
+    "Domain": "Marketing",
+    "Job Category": "Growth and Performance Media",
+    "Job Title": "Growth Marketing Manager",
+    "Core Skill": "Paid Social Media Advertising",
+    "Sub Skill": "Conversion Tracking Implementation",
+    "Synonym": "Meta Conversions API"
+  },
+  {
+    "Domain": "Consulting",
+    "Job Category": "Strategy and Corporate Advisory",
+    "Job Title": "Strategy Consultant",
+    "Core Skill": "Structured Problem Solving",
+    "Sub Skill": "MECE Issue Structuring",
+    "Synonym": "Issue Tree Architecture"
+  },
+  {
+    "Domain": "Consulting",
+    "Job Category": "Strategy and Corporate Advisory",
+    "Job Title": "Strategy Consultant",
+    "Core Skill": "Structured Problem Solving",
+    "Sub Skill": "Root Cause Analysis",
+    "Synonym": "Five Whys Method"
+  },
+  {
+    "Domain": "Consulting",
+    "Job Category": "Strategy and Corporate Advisory",
+    "Job Title": "Strategy Consultant",
+    "Core Skill": "Strategic Market Assessment",
+    "Sub Skill": "Market Sizing Estimation",
+    "Synonym": "TAM SAM SOM Estimation"
+  },
+  {
+    "Domain": "Consulting",
+    "Job Category": "Strategy and Corporate Advisory",
+    "Job Title": "Strategy Consultant",
+    "Core Skill": "Strategic Market Assessment",
+    "Sub Skill": "Competitive Dynamics Evaluation",
+    "Synonym": "Porter Five Forces Diagnostic"
+  },
+  {
+    "Domain": "Finance",
+    "Job Category": "Corporate Finance and Strategic Planning",
+    "Job Title": "Financial Planning Analyst",
+    "Core Skill": "Corporate Financial Modeling",
+    "Sub Skill": "Three Statement Financial Integration",
+    "Synonym": "Excel Financial Model"
+  },
+  {
+    "Domain": "Finance",
+    "Job Category": "Corporate Finance and Strategic Planning",
+    "Job Title": "Financial Planning Analyst",
+    "Core Skill": "Corporate Financial Modeling",
+    "Sub Skill": "Discounted Cash Flow Valuation",
+    "Synonym": "WACC Computation"
+  },
+  {
+    "Domain": "Finance",
+    "Job Category": "Corporate Finance and Strategic Planning",
+    "Job Title": "Financial Planning Analyst",
+    "Core Skill": "Rolling Forecast Architecture",
+    "Sub Skill": "Dynamic Cost Run Rate Estimation",
+    "Synonym": "Monthly Run Rate Analysis"
+  },
+  {
+    "Domain": "Finance",
+    "Job Category": "Corporate Finance and Strategic Planning",
+    "Job Title": "Strategic Finance Specialist",
+    "Core Skill": "Unit Economics Optimization",
+    "Sub Skill": "Payback Period Estimation",
+    "Synonym": "Cash Flow Breakeven Timeline"
+  }
+]

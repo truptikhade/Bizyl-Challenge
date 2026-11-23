@@ -1,0 +1,44 @@
+[
+    {
+        "job_id": "JB_101",
+        "title": "Senior Backend &amp; Data Engineer (Python)",
+        "raw_location": "Remote Anywhere",
+        "raw_page_snippet": "Apply now! Must reside in the United States or Canada for tax compliance. Full-time role building Django & PySpark pipelines.",
+        "employment_hint": "Full Time"
+    },
+    {
+        "job_id": "JB_102",
+        "title": "Growth &amp; Paid Search Specialist",
+        "raw_location": "Dubai, UAE (Hybrid - 3 days office)",
+        "raw_page_snippet": "Sorry, this job is no longer available or has been filled.",
+        "employment_hint": "Full-time"
+    },
+    {
+        "job_id": "JB_103",
+        "title": "Strategy &amp; Market Sizing Associate",
+        "raw_location": "Remote - Global",
+        "raw_page_snippet": "We are hiring a Strategy Consultant for TAM/SAM/SOM sizing and Porter Five Forces analysis. 6-month contract, remote worldwide.",
+        "employment_hint": "Contractor"
+    },
+    {
+        "job_id": "JB_104",
+        "title": "FP&amp;A Analyst &mdash; Unit Economics",
+        "raw_location": "Bengaluru, India (On-site)",
+        "raw_page_snippet": "Build 3-statement Excel financial models, DCF/WACC valuations, and monthly run-rate forecasts. 2-4 years experience required.",
+        "employment_hint": "Permanent"
+    },
+    {
+        "job_id": "JB_105",
+        "title": "AI / ML Engineering Intern (NLP)",
+        "raw_location": "Remote (India)",
+        "raw_page_snippet": "404 Not Found - The requisition ID you requested does not exist.",
+        "employment_hint": "Internship"
+    },
+    {
+        "job_id": "JB_107",
+        "title": "Part-Time Paid Social Buyer (Meta Ads)",
+        "raw_location": "Remote - UK &amp; EU Only",
+        "raw_page_snippet": "Manage Meta Custom Audiences and Conversions API for D2C brands. 20 hrs/week.",
+        "employment_hint": "Part time"
+    }
+]

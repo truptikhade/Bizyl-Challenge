@@ -1,0 +1,5 @@
+# Python bytecode and caches
+__pycache__/
+
+# Local environment and editor files
+.DS_Store

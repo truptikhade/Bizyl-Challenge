@@ -1,0 +1,92 @@
+[
+  {
+    "job_id": "JB_101",
+    "title": "Senior Backend & Data Engineer (Python)",
+    "raw_location": "Remote Anywhere",
+    "clean_snippet": "Apply now! Must reside in the United States or Canada for tax compliance. Full-time role building Django & PySpark pipelines.",
+    "is_active": true,
+    "inactive_reason": null,
+    "employment_type": "Full-time",
+    "remote_scope": "Remote (Restricted)",
+    "mapped_domain": "Information Technology",
+    "seniority": "Senior",
+    "flags": [
+      "contradiction: location says global but snippet says 'Must reside in the United States or Canada for tax compliance'"
+    ]
+  },
+  {
+    "job_id": "JB_102",
+    "title": "Growth & Paid Search Specialist",
+    "raw_location": "Dubai, UAE (Hybrid - 3 days office)",
+    "clean_snippet": "Sorry, this job is no longer available or has been filled.",
+    "is_active": false,
+    "inactive_reason": "snippet matched 'no longer available'",
+    "employment_type": "Full-time",
+    "remote_scope": null,
+    "mapped_domain": null,
+    "seniority": null,
+    "flags": [
+      "listing_inactive: snippet matched 'no longer available'; UI mapping skipped"
+    ]
+  },
+  {
+    "job_id": "JB_103",
+    "title": "Strategy & Market Sizing Associate",
+    "raw_location": "Remote - Global",
+    "clean_snippet": "We are hiring a Strategy Consultant for TAM/SAM/SOM sizing and Porter Five Forces analysis. 6-month contract, remote worldwide.",
+    "is_active": true,
+    "inactive_reason": null,
+    "employment_type": "Contract",
+    "remote_scope": "Remote (Global)",
+    "mapped_domain": "Consulting",
+    "seniority": "Mid-Level",
+    "flags": [
+      "seniority_defaulted: no title or experience cue, set to Mid-Level"
+    ]
+  },
+  {
+    "job_id": "JB_104",
+    "title": "FP&A Analyst — Unit Economics",
+    "raw_location": "Bengaluru, India (On-site)",
+    "clean_snippet": "Build 3-statement Excel financial models, DCF/WACC valuations, and monthly run-rate forecasts. 2-4 years experience required.",
+    "is_active": true,
+    "inactive_reason": null,
+    "employment_type": "Full-time",
+    "remote_scope": "On-site",
+    "mapped_domain": "Finance",
+    "seniority": "Mid-Level",
+    "flags": [
+      "employment_assumed: 'Permanent' mapped to Full-time"
+    ]
+  },
+  {
+    "job_id": "JB_105",
+    "title": "AI / ML Engineering Intern (NLP)",
+    "raw_location": "Remote (India)",
+    "clean_snippet": "404 Not Found - The requisition ID you requested does not exist.",
+    "is_active": false,
+    "inactive_reason": "snippet matched '404 not found'",
+    "employment_type": "Internship",
+    "remote_scope": null,
+    "mapped_domain": null,
+    "seniority": null,
+    "flags": [
+      "listing_inactive: snippet matched '404 not found'; UI mapping skipped"
+    ]
+  },
+  {
+    "job_id": "JB_107",
+    "title": "Part-Time Paid Social Buyer (Meta Ads)",
+    "raw_location": "Remote - UK & EU Only",
+    "clean_snippet": "Manage Meta Custom Audiences and Conversions API for D2C brands. 20 hrs/week.",
+    "is_active": true,
+    "inactive_reason": null,
+    "employment_type": "Part-time",
+    "remote_scope": "Remote (Restricted)",
+    "mapped_domain": "Marketing",
+    "seniority": "Mid-Level",
+    "flags": [
+      "seniority_defaulted: no title or experience cue, set to Mid-Level"
+    ]
+  }
+]
